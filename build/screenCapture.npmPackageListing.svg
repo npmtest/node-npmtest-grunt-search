@@ -1,18 +1,18 @@
 <svg height="238" width="720" xmlns="http://www.w3.org/2000/svg">
 <rect height="238" fill="#555" width="720"></rect>
 <text fill="#7f7" font-family="Courier New" font-size="12" xml:space="preserve">
-<tspan x="10" y="26">  0.  2017-04-21 15:20:31 +0000    36741 bytes  .</tspan>
-<tspan x="10" y="42">  1.  2017-04-21 15:20:31 +0000     2299 bytes  Gruntfile.js</tspan>
-<tspan x="10" y="58">  2.  2017-04-21 15:20:31 +0000     1080 bytes  LICENSE</tspan>
-<tspan x="10" y="74">  3.  2017-04-21 15:20:31 +0000     8700 bytes  README.md</tspan>
-<tspan x="10" y="90">  4.  2017-04-21 15:20:31 +0000     1039 bytes  package.json</tspan>
-<tspan x="10" y="106">  5.  2017-04-21 15:20:31 +0000    11512 bytes  tasks/search.js</tspan>
-<tspan x="10" y="122">  6.  2017-04-21 15:20:31 +0000      409 bytes  test/expected/junit-nocommit.xml</tspan>
-<tspan x="10" y="138">  7.  2017-04-21 15:20:31 +0000      209 bytes  test/expected/results.json</tspan>
-<tspan x="10" y="154">  8.  2017-04-21 15:20:31 +0000      151 bytes  test/fixtures/file1.js</tspan>
-<tspan x="10" y="170">  9.  2017-04-21 15:20:31 +0000      102 bytes  test/fixtures/file2.js</tspan>
-<tspan x="10" y="186"> 10.  2017-04-21 15:20:31 +0000       62 bytes  test/fixtures/file3.js</tspan>
-<tspan x="10" y="202"> 11.  2017-04-21 15:20:31 +0000     1640 bytes  test/search_test.js</tspan>
-<tspan x="10" y="218"> 12.  2017-04-21 15:20:31 +0000     9538 bytes  test/test_source.html</tspan>
+<tspan x="10" y="26">  0.  2017-04-21 15:21:33 +0000    36741 bytes  .</tspan>
+<tspan x="10" y="42">  1.  2017-04-21 15:21:33 +0000     2299 bytes  Gruntfile.js</tspan>
+<tspan x="10" y="58">  2.  2017-04-21 15:21:33 +0000     1080 bytes  LICENSE</tspan>
+<tspan x="10" y="74">  3.  2017-04-21 15:21:33 +0000     8700 bytes  README.md</tspan>
+<tspan x="10" y="90">  4.  2017-04-21 15:21:33 +0000     1039 bytes  package.json</tspan>
+<tspan x="10" y="106">  5.  2017-04-21 15:21:33 +0000    11512 bytes  tasks/search.js</tspan>
+<tspan x="10" y="122">  6.  2017-04-21 15:21:33 +0000      409 bytes  test/expected/junit-nocommit.xml</tspan>
+<tspan x="10" y="138">  7.  2017-04-21 15:21:33 +0000      209 bytes  test/expected/results.json</tspan>
+<tspan x="10" y="154">  8.  2017-04-21 15:21:33 +0000      151 bytes  test/fixtures/file1.js</tspan>
+<tspan x="10" y="170">  9.  2017-04-21 15:21:33 +0000      102 bytes  test/fixtures/file2.js</tspan>
+<tspan x="10" y="186"> 10.  2017-04-21 15:21:33 +0000       62 bytes  test/fixtures/file3.js</tspan>
+<tspan x="10" y="202"> 11.  2017-04-21 15:21:33 +0000     1640 bytes  test/search_test.js</tspan>
+<tspan x="10" y="218"> 12.  2017-04-21 15:21:33 +0000     9538 bytes  test/test_source.html</tspan>
 </text>
 </svg>
